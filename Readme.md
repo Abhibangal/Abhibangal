@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="watermarked_img_6264339001510215815.png" alt="Abhijit Bangal - Solution Architect Banner" width="100%" />
+  <img src="cover_image.png" alt="Abhijit Bangal - Solution Architect Banner" width="100%" />
 </div>
 
 ## 👋 Hi, I'm Abhijit Bangal
@@ -21,5 +21,5 @@ I am a Data Solution Architect dedicated to designing robust, scalable, and secu
 *   **Architecture Patterns:** Data Mesh, Data Lakehouse, Medallion Architecture
 
 ### 📫 Let's Connect
-*   **LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com/in/your-profile-link)
-*   **Email:** [Reach out via Email](mailto:your.email@example.com)
+*   **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/abhijit-bangal-8b38b4164/)
+*   **Email:** [Reach out via Email](mailto:abhijit.bangal92@gmail.com)
